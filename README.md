@@ -20,6 +20,12 @@ Renombrar el archivo de configuración:
 ```php
 cp .env.example .env
 ```
+Instalar composer:
+
+```
+composer install
+```
+
 
 Generar la clave:
 
